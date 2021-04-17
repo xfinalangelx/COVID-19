@@ -25,7 +25,7 @@
         <h2 class="text-center">OOI XIAO QI</h2>
         <p class="title">UI/UX DESIGNER</p>
         <p class="title">example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p><a class="button" href="https://www.facebook.com/xiaoqi.ooi.3">Contact</a></p>
       </div>
     </div>
   </div>
@@ -36,8 +36,8 @@
       <div class="container">
         <h2 class="text-center">TAN XIU LI</h2>
         <p class="title">UI/UX DESIGNER</p>
-        <p class="title">example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p class="title">yuitanmiao@gmail.com</p>
+        <p><a class="button" href="https://www.facebook.com/profile.php?id=100019212852781">Contact</a></p>
       </div>
     </div>
   </div>
@@ -49,7 +49,7 @@
         <h2 class="text-center">TEO RICHIE</h2>
         <p class="title">FRONTEND DEVELOPER</p>
         <p class="title">teorichiemalaya@gmail.com</p>
-        <p><button class="button">Contact</button></p>
+        <p><a class="button" href="https://www.facebook.com/richie.1999/">Contact</a></p>
       </div>
     </div>
   </div>
@@ -60,8 +60,8 @@
       <div class="container">
         <h2 class="text-center">LIM HUI YEE</h2>
         <p class="title">UI/UX DESIGNER</p>
-        <p class="title">example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <p class="title">anyangweining@gmail.com</p>
+        <p><a class="button" href="https://www.facebook.com/huiyee.lim.35">Contact</a></p>
       </div>
     </div>
   </div>
