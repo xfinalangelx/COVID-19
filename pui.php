@@ -1,5 +1,6 @@
 <?php include('components/head.inc.php'); ?>
 <?php include('components/navbar.inc.php'); ?>
+
     <div class="head-about" id="head">
             <h2 id="about-head">When should you go into quarantine?</h2>
             <img src ="images/pui1.jpg" height="300px">

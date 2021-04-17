@@ -1,6 +1,6 @@
 <?php include 'components/head.inc.php'; ?>
 
-<nav class="navbar sticky-top navbar-expand-lg bg-dark">
+<nav class="navbar fixed-top navbar-expand-lg bg-dark">
     <div class="container">
       <a class="navbar-brand" href="index.php"><img src="images/logo-alt.png" alt="Logo" style="height:100px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
