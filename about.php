@@ -19,7 +19,7 @@
         <div class="head-about" id="head">
         <h2 id="symptom-head">COVID-19 Symptoms</h2>
         </div>
-        <img src="images/covid-symptoms.png" style=" display: block;
+        <img src="images/covid-symptoms.PNG" style=" display: block;
   margin-left: auto;
   margin-right: auto;
   width: 70%;">
