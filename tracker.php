@@ -1,9 +1,10 @@
-<?php include 'components/navbar.inc.php'; ?>
-<?php include 'components/head.inc.php'; ?>
 
 <?php 
     include "tracker-logic.php";
 ?>
+<?php include 'components/head.inc.php'; ?>
+<?php include 'components/navbar.inc.php'; ?>
+
 
 
 
@@ -14,7 +15,7 @@
     </div>
 
     <!-- BootStrap Container for Total Stats-->
-    <div class="container my-12 m-3">
+    <div class="container my-12">
     <div class = "row text-center">
         <div class = "col text-danger">
             <h3>Confirmed</h3>
