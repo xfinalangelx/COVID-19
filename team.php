@@ -24,7 +24,7 @@
       <div class="container">
         <h2 class="text-center">OOI XIAO QI</h2>
         <p class="title">UI/UX DESIGNER</p>
-        <p class="title">example@example.com</p>
+        <p class="title">ooi.xiao.qi25@gmail.com</p>
         <p><a class="button" href="https://www.facebook.com/xiaoqi.ooi.3">Contact</a></p>
       </div>
     </div>
