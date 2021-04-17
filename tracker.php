@@ -1,17 +1,14 @@
 <?php include 'components/navbar.inc.php'; ?>
+<?php include 'components/head.inc.php'; ?>
 
 <?php 
     include "tracker-logic.php";
 ?>
 
-<?php include 'components/head.inc.php'; ?>
 
-    <!-- Page Title -->
-    <title>COVID-19 | Tracker</title>
-</head>
-<body>
+
     <!-- BootStrap Container for Header-->
-    <div class="container-fluid bg-light p-5 text-center my-3">
+    <div class="text-center">
         <h1>RONATRACK</h1>
         <h5>A COVID-19 cases tracker which is up to date</h5>
     </div>
@@ -19,17 +16,17 @@
     <!-- BootStrap Container for Total Stats-->
     <div class="container my-12 m-3">
     <div class = "row text-center">
-        <div class = "col-md-4 text-danger">
+        <div class = "col text-danger">
             <h3>Confirmed</h3>
             <?php echo $total_confirmed; ?>
         </div>
 
-        <div class = "col-md-4 text-success">
+        <div class = "col text-success">
             <h3>Recovered</h3>
             <?php echo $total_recovered; ?>
         </div>
 
-        <div class = "col-md-4 text-dark">
+        <div class = "col text-dark">
             <h3>Deaths</h3>
             <?php echo $total_deaths; ?>
         </div>
@@ -85,7 +82,6 @@
     </table>
     </div>
 
-</body>
-</html>
+
 
 <?php include('components/footer.inc.php'); ?>
