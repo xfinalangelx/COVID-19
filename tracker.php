@@ -17,19 +17,19 @@
     </div>
 
     <!-- BootStrap Container for Total Stats-->
-    <div class="container my-10">
+    <div class="container my-12 m-3">
     <div class = "row text-center">
-        <div class = "col-4 text-danger">
+        <div class = "col-md-4 m-0.5 text-danger">
             <h3>Confirmed</h3>
             <?php echo $total_confirmed; ?>
         </div>
 
-        <div class = "col-4 text-success">
+        <div class = "col-md-4 m-0.5 text-success">
             <h3>Recovered</h3>
             <?php echo $total_recovered; ?>
         </div>
 
-        <div class = "col-4 text-dark">
+        <div class = "col-md-4 m-0.5 text-dark">
             <h3>Deaths</h3>
             <?php echo $total_deaths; ?>
         </div>
