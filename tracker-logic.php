@@ -1,10 +1,8 @@
 <?php 
 
 $jsonData = file_get_contents("https://pomber.github.io/covid19/timeseries.json");
-//loads JSON timeseries from the github repo
 
 $data = json_decode($jsonData,true);
-//returns decoded json data into array
 
 foreach($data as $key => $value){
     $days_count = count($value)-1;
