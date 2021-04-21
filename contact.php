@@ -65,7 +65,7 @@
             <div class="card-header" id="headingFour">
                 <h2 class="mb-0">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                        WP KL & WP Putrajaya
+                        WP Kuala Lumpur & WP Putrajaya
                     </button>
                 </h2>
             </div>
